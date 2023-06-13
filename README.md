@@ -1,5 +1,9 @@
 # Machine-learning-course
 
+# youtube playlist link 
+https://www.youtube.com/playlist?list=PLxRFbX3boNVASYQFQog6nIZKVonunjrpc
+
+
 # Lesson 1: Introduction to Python
  *  Overview of the course and its objectives
  *  Introduction to programming concepts
